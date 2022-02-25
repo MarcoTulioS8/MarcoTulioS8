@@ -1,4 +1,4 @@
-### Olá Pessoas! Eu sou o Marco Túlio 👋
+### Olá Pessoas! Eu sou o Marco Túlio
 
 * ⚡ Atualmente trabalho na área de Estudos Elétricos
 * 📚 Aprendendo sobre banco de dados, Python e JavaScript
