@@ -1,6 +1,6 @@
 ### Olá Pessoas! Eu sou o Marco Túlio
 
-* ⚡ Atualmente trabalho na área de Estudos Elétricos
+* ⚡ Atualmente trabalho na área de Automação de Subestações
 * 📚 Aprendendo sobre Banco de Dados, Python e JavaScript
 
 
